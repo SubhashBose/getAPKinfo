@@ -1,6 +1,4 @@
-Sure! Here's your `README.md` content in Markdown format:
 
-````markdown
 # 📦 APK Info Extractor
 
 A simple Go command-line tool to extract metadata from Android APK files.
