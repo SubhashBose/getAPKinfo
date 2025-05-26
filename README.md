@@ -78,7 +78,7 @@ Version Name : 11.11.1
 ### Show Value Only (No Labels)
 
 ```bash
-./apkinfo --version-name --no-labels Telegram.apk
+./APKinfo --version-name --no-labels Telegram.apk
 ```
 
 ```
@@ -90,7 +90,7 @@ Version Name : 11.11.1
 ### JSON Output
 
 ```bash
-./apkinfo --json Telegram.apk
+./APKinfo --json Telegram.apk
 ```
 
 ```json
