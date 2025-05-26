@@ -23,7 +23,7 @@ Go to release of this repo and download binary for relvant OS and Arch.
 ## 🚀 Usage
 
 ```bash
-./apkinfo [flags] <path-to-apk>
+./APKinfo [flags] <path-to-apk>
 ```
 
 The `<path-to-apk>` can be placed anywhere in the command-line arguments.
